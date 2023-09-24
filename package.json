@@ -1,0 +1,6 @@
+{
+  "name": "@farmowner/miniprogram",
+  "version": "0.0.10",
+  "description": "微信小程序开发组件库",
+  "main": "index.js"
+}
